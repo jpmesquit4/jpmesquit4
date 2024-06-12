@@ -3,8 +3,10 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-mesquita-rosa-259b06278/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mesquit_/)
 
-![Mesquita GitHub stats](https://github-readme-stats.vercel.app/api?username=jpmesquit4&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpmesquit4&layout=compact&theme=dark)
+<div>
+    <img height='180em' src='https://github-readme-stats.vercel.app/api?username=jpmesquit4&show_icons=true&theme=dark'>
+    <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=jpmesquit4&layout=compact&theme=dark'>
+</div>
 
 ## Tecnologias que eu uso no meu dia
 
